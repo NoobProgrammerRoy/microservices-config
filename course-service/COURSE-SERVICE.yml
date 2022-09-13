@@ -4,7 +4,5 @@ spring:
     h2:
         console:
             enabled: true    
-    config:
-        import: configserver:http://localhost:5002
 server:
     port: 3000
