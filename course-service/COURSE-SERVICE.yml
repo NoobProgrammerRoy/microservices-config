@@ -9,6 +9,6 @@ spring:
     sleuth:
         sampler:
             rate: 10
-            probability: 0.5    
+            probability: 1    
 server:
     port: 3000
